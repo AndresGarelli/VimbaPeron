@@ -1,5 +1,5 @@
 # VimbaPeron!
-This script is used to acquire images with Allied Vision cameras using Python API of Fimba SDK. Tested on model  Alvium 1800 U-500m
+This script is used to acquire images with Allied Vision cameras using Python API of Vimba SDK. Tested on model  Alvium 1800 U-500m
 
 Vimba for Windows can be downloaded from here:
 https://www.alliedvision.com/en/products/vimba-sdk/
